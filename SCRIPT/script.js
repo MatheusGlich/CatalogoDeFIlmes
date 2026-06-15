@@ -8,7 +8,7 @@ const filmes = [
     {
         titulo:"Batman O Cavaleiro Das Trevas",
         imagem: "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d1/The_Dark_Knight.jpg/250px-The_Dark_Knight.jpg",
-        descricao:"Batman, Jim Gordon e Harvey Dent combatem o crime organizado em Gotham. O plano deles é ameaçado quando o psicótico Coringa surge, espalhando o caos e testando os limites morais do herói."
+        descricao:"Batman, Jim Gordon e Harvey  combatem o crime organizado em Gotham. O plano deles é ameaçado quando o psicótico Coringa surge, espalhando o caos e testando os limites morais do herói."
     },
     {
         titulo:"Backrooms Um Não-Lugar",
